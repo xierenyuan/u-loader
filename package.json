@@ -1,0 +1,24 @@
+{
+  "name": "u-loader",
+  "version": "1.0.0",
+  "description": "只是为了用 f-loader  - -解决坑爹的问题 并没有什么 发布为自用 没有参考价值 至于为什么用f-loader 请参考我的f-loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xierenyuan/u-loader.git"
+  },
+  "author": "xierenhong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xierenyuan/u-loader/issues"
+  },
+  "homepage": "https://github.com/xierenyuan/u-loader#readme",
+  "dependencies": {
+    "f-loader": "^1.0.0",
+    "loader-utils": "^0.2.15",
+    "mime": "^1.3.4"
+  }
+}
